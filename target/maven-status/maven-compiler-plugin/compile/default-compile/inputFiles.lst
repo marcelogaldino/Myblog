@@ -1,0 +1,11 @@
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/DAO/AbstractDAO.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/model/AbstractEntity.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/model/Post.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/DAO/AutorDAO.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/util/PopulaPessoa.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/controller/AbstractController.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/util/PopulaUsuario.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/model/Usuario.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/util/JPAUtil.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/model/Autor.java
+/home/marcelo/NetBeansProjects/livraria-fafiman/src/main/java/com/marcelo/Myblog/controller/PostController.java
